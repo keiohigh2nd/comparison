@@ -1,3 +1,13 @@
 data
+mouse*
 input
 *.txt
+*.pdf
+result
+diff
+tcga/
+visualization
+reduct
+res_pic
+find_common
+exact_result

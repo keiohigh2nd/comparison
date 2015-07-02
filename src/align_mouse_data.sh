@@ -1,0 +1,1 @@
+python src/extract.py mouse_data/mouse_brain_control_1-2-2.txt mouse_data/mouse_brain_control_1-2-4.txt mouse_data/mouse_brain_3-3-2.txt mouse_data/mouse_brain_2-4-5.txt mouse_data/mouse_HER2-60_Brain_1-5-4.count.txt mouse_data/mouse_HER2-90_Brain_5-1-4.txt mouse_data/MeWo_Brain_mouse.count.txt mouse_data/WM_503_brain6_mouse.count.txt
